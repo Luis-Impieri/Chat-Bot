@@ -1,0 +1,5 @@
+Para fazer o código rodar, é preciso que o usuário que o execute com uma chave válida da API do GPT no campo "Insira sua chave aqui".
+
+Para conseguir uma chave válida, o primeiro passo é criar uma conta na plataforma OpenAI. Acesse o site oficial da OpenAI e clique em 'Sign Up' para se registrar. Após criar sua conta, você precisará verificar seu endereço de e-mail. Uma vez verificado, faça login na sua conta e navegue até a seção de API no dashboard. Aqui, você poderá gerar uma nova chave de API clicando em 'Create new key'. Essa chave é o que permite que seu código Python se comunique com a API do GPT.
+
+Vale lembrar que a chave deve ser mantida em segurança para evitar que terceiros acessem sua API
